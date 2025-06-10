@@ -5,7 +5,6 @@ to change the location of the file that you need to open with discord, simply re
 
 Big thanks to Flowseal for "zapret-discord-youtube" 
 
-"icon.ico" is copyright Discord Inc.
 
 
 # auto4zapretDiscord(RUSSIA)
@@ -15,4 +14,3 @@ auto4zapretDiscord — это открытый исходный код, кото
 
 огромное спасибо Flowseal за "zapret-discord-youtube"
 
-авторское право "icon.ico" принадлежит Discord Inc
