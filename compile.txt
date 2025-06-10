@@ -1,1 +1,1 @@
-pyinstaller --noconsol --onefile --icon=icon.ico --uac-admin discord4zapret.py
+pyinstaller --noconsol --onefile --uac-admin discord4zapret.py
